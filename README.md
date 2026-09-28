@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Etem Baran
+
+I'm a freshman Computer Science student at Bilkent University.
+
+I'm currently learning programming and exploring different areas of computer science.
 
 <!--
 **etembaransayoglu60/etembaransayoglu60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
